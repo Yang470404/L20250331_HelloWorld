@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\BootCamp1\HelloC\L20250331_HelloWorld\main.cpp(28,8): error C2374: 'A': redefinition; multiple initialization
+      C:\BootCamp1\HelloC\L20250331_HelloWorld\main.cpp(20,8):
+      see declaration of 'A'
+  
+C:\BootCamp1\HelloC\L20250331_HelloWorld\main.cpp(28,8): error C2086: 'float A': redefinition
+      C:\BootCamp1\HelloC\L20250331_HelloWorld\main.cpp(20,8):
+      see declaration of 'A'
+  
