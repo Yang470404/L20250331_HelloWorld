@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\BootCamp1\\HelloC\\L20250331_HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCAD8099-5ED1-4D6F-A66A-756E9232E927}|L20250331_HelloWorld.vcxproj|C:\\BootCamp1\\HelloC\\L20250331_HelloWorld\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DCAD8099-5ED1-4D6F-A66A-756E9232E927}|L20250331_HelloWorld.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DCAD8099-5ED1-4D6F-A66A-756E9232E927}|L20250331_HelloWorld.vcxproj|C:\\BootCamp1\\HelloC\\L20250331_HelloWorld\\0401_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCAD8099-5ED1-4D6F-A66A-756E9232E927}|L20250331_HelloWorld.vcxproj|solutionrelative:0401_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAD8099-5ED1-4D6F-A66A-756E9232E927}|L20250331_HelloWorld.vcxproj|C:\\BootCamp1\\HelloC\\L20250331_HelloWorld\\0401_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCAD8099-5ED1-4D6F-A66A-756E9232E927}|L20250331_HelloWorld.vcxproj|solutionrelative:0401_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0401_1.cpp",
+              "DocumentMoniker": "C:\\BootCamp1\\HelloC\\L20250331_HelloWorld\\0401_1.cpp",
+              "RelativeDocumentMoniker": "0401_1.cpp",
+              "ToolTip": "C:\\BootCamp1\\HelloC\\L20250331_HelloWorld\\0401_1.cpp*",
+              "RelativeToolTip": "0401_1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-01T00:08:12.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\BootCamp1\\HelloC\\L20250331_HelloWorld\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\BootCamp1\\HelloC\\L20250331_HelloWorld\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Title": "0401_2.cpp",
+              "DocumentMoniker": "C:\\BootCamp1\\HelloC\\L20250331_HelloWorld\\0401_2.cpp",
+              "RelativeDocumentMoniker": "0401_2.cpp",
+              "ToolTip": "C:\\BootCamp1\\HelloC\\L20250331_HelloWorld\\0401_2.cpp",
+              "RelativeToolTip": "0401_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-31T05:17:22.896Z",
               "EditorCaption": ""

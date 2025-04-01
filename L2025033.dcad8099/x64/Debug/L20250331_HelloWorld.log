@@ -1,4 +1,7 @@
-﻿  main.cpp
+﻿  0401_1.cpp
+C:\BootCamp1\HelloC\L20250331_HelloWorld\0401_1.cpp(12,2): error C2589: 'return': illegal token on right side of '::'
+C:\BootCamp1\HelloC\L20250331_HelloWorld\0401_1.cpp(12,9): error C2059: syntax error: 'constant'
+  main.cpp
 C:\BootCamp1\HelloC\L20250331_HelloWorld\main.cpp(28,8): error C2374: 'A': redefinition; multiple initialization
       C:\BootCamp1\HelloC\L20250331_HelloWorld\main.cpp(20,8):
       see declaration of 'A'
@@ -7,3 +10,4 @@ C:\BootCamp1\HelloC\L20250331_HelloWorld\main.cpp(28,8): error C2086: 'float A':
       C:\BootCamp1\HelloC\L20250331_HelloWorld\main.cpp(20,8):
       see declaration of 'A'
   
+  Generating Code...
